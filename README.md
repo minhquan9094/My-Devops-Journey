@@ -2,6 +2,10 @@
 Learning path for Devops 
 
 Follow course from Packt:  DevOps Project - 2022: CI/CD with Jenkins Ansible Kubernetes
+Resource: 
+
+https://github.com/yankils/Simple-DevOps-Project
+
 
 # Project 1: 
 
